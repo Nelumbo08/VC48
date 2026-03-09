@@ -1,0 +1,7 @@
+torch
+torchaudio
+torchinfo
+tensorboard
+numpy
+scipy
+matplotlib
